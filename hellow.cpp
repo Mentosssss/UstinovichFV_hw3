@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-	cout << "Hellow world" << endl;
+	cout << "My new rating" << endl;
 }
