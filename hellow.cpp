@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-	cout << "Hellow world" << endl;
+	cout << "Comment was added" << endl;
 }
